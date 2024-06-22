@@ -43,7 +43,7 @@ Welcome to the Dashboard App, a powerful web application with advanced features 
 ## Preview 👀
 [Live Demo](https://reactdashboard-admin.netlify.app/)
 
-![Screenshot](https://github.com/charag678/React-Dashboard-Admin/assets/132742281/a6b6a74b-c14b-4c8d-9ce5-a5257a584835)
+![Screenshot (41)](https://github.com/charag678/React-Dashboard-Admin/assets/132742281/37f57eff-dd6b-47cd-8ebc-39280e0a1d36)
 
 
 ## Technologies Used </>
